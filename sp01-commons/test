@@ -1,4 +1,8 @@
 casdc
 q
+<<<<<<< HEAD
 dsadda
 主分支修改
+=======
+分支修改
+>>>>>>> refs/remotes/origin/v2
